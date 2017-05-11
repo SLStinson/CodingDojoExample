@@ -1,0 +1,11 @@
+c:\dev\_spikes\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\dev\_spikes\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\dev\_spikes\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\dev\_spikes\ConsoleApplication2\ConsoleApplication2\bin\Debug\Newtonsoft.Json.dll
+c:\dev\_spikes\ConsoleApplication2\ConsoleApplication2\bin\Debug\RestSharp.dll
+c:\dev\_spikes\ConsoleApplication2\ConsoleApplication2\bin\Debug\Newtonsoft.Json.xml
+c:\dev\_spikes\ConsoleApplication2\ConsoleApplication2\bin\Debug\RestSharp.xml
+c:\dev\_spikes\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\dev\_spikes\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+c:\dev\_spikes\ConsoleApplication2\ConsoleApplication2\bin\Debug\EsendexMessengerApp.exe.config
+C:\dev\_spikes\EsendexMessengerApp\EsendexMessengerApp\bin\Debug\EsendexMessengerApp.exe.config
