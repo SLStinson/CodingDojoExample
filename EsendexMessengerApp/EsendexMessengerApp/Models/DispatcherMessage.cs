@@ -1,16 +1,16 @@
-using System.Xml.Serialization;
+using Newtonsoft.Json;
 
 namespace EsendexMessengerApp.Models
 {
     public class DispatcherMessage
     {
-        [XmlElement("to")]
+        [JsonProperty("to")]
         public string Recipient { get; set; }
 
-        [XmlElement("from")]
+        [JsonProperty("from", NullValueHandling = NullValueHandling.Ignore)]
         public string Originator { get; set; }
 
-        [XmlElement("body")]
+        [JsonProperty("body")]
         public string Body { get; set; }
     }
 }
